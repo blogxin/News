@@ -1,0 +1,12 @@
+target '今日头条' do
+pod 'AFNetworking', '~> 3.0'
+
+platform :ios, '7.0'
+pod 'SDWebImage', '~>3.8'
+
+pod 'ZFPlayer'
+
+pod 'YYKit'
+
+pod "MWPhotoBrowser"
+end
